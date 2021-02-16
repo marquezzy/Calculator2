@@ -1,0 +1,22 @@
+PODS:
+  - AntlrSwift (0.0.1)
+
+DEPENDENCIES:
+  - "AntlrSwift (from `git@github.com:marquezzy/AntlrSwift.git`, branch `main`)"
+
+EXTERNAL SOURCES:
+  AntlrSwift:
+    :branch: main
+    :git: "git@github.com:marquezzy/AntlrSwift.git"
+
+CHECKOUT OPTIONS:
+  AntlrSwift:
+    :commit: 246c9040a6bdf74d71c70bf816f575c6d4cd0165
+    :git: "git@github.com:marquezzy/AntlrSwift.git"
+
+SPEC CHECKSUMS:
+  AntlrSwift: 33ef487eff2a0a6509b3449149f85fe437790192
+
+PODFILE CHECKSUM: f9545901d404b430acab3efdd85021f36f38fa77
+
+COCOAPODS: 1.10.0

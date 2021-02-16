@@ -1,0 +1,27 @@
+{
+  "name": "AntlrSwift",
+  "version": "0.0.1",
+  "summary": "A short description of AntlrSwift.",
+  "description": "Antlr Runtime in Swift as a Cocoapod.",
+  "homepage": "https://github.com/marquezzy/AntlrSwift",
+  "license": {
+    "type": "GNU"
+  },
+  "authors": {
+    "Mark Gallegos": "mark.gallegos@omadahealth.com"
+  },
+  "source": {
+    "git": "git@github.com:marquezzy/AntlrSwift.git",
+    "branch": "main"
+  },
+  "source_files": [
+    "Sources",
+    "Sources/**/*.swift"
+  ],
+  "platforms": {
+    "osx": null,
+    "ios": null,
+    "tvos": null,
+    "watchos": null
+  }
+}

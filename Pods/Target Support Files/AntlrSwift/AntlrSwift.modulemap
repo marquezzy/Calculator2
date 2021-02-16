@@ -1,0 +1,6 @@
+framework module AntlrSwift {
+  umbrella header "AntlrSwift-umbrella.h"
+
+  export *
+  module * { export * }
+}
